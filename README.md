@@ -48,6 +48,10 @@ Images of each major step are included in the `/images/` folder and referenced b
 
 - Configured virtual switches and interfaces
 - Created isolated lab network (non-routable from host)
-- Screenshot: -
+- Screenshot: `images/Kali Specs.png` `images/Windows Specs.png`
 
-`images/Kali Specs.png` `images/Windows Specs.png`
+### ✅ Step 4: Installing and Configuring VMs
+
+- Created and installed Kali Linux, and Windows 10 VMs
+- Took VM snapshots after configuration
+- Screenshot: `images/Baseline Kali`
