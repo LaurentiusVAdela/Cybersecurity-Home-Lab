@@ -36,4 +36,10 @@ Images of each major step are included in the `/images/` folder and referenced b
 
 - Verified system resources (RAM, CPU virtualization enabled)
 - Installed required drivers and updates
-- Screenshot: `images/Kali Specs.png` `images/Windows Specs.png`
+- Screenshot: -
+
+### ✅ Step 2: Virtualization Software Installation
+
+- Installed [VirtualBox/VMware] and created base VM templates
+- Enabled networking features (Internal Network) for testing purposes
+- Screenshot: -
