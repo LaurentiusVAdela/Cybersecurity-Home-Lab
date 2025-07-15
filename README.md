@@ -43,3 +43,11 @@ Images of each major step are included in the `/images/` folder and referenced b
 - Installed [VirtualBox/VMware] and created base VM templates
 - Enabled networking features (Internal Network) for testing purposes
 - Screenshot: -
+
+### ✅ Step 3: Virtual Network Configuration
+
+- Configured virtual switches and interfaces
+- Created isolated lab network (non-routable from host)
+- Screenshot: -
+
+`images/Kali Specs.png` `images/Windows Specs.png`
