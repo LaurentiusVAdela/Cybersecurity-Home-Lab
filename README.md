@@ -29,3 +29,11 @@ Images of each major step are included in the `/images/` folder and referenced b
 7. [Credits](#credits)
 
 ---
+
+## 🧱 Step-by-Step Progress
+
+### ✅ Step 1: Host OS Preparation
+
+- Verified system resources (RAM, CPU virtualization enabled)
+- Installed required drivers and updates
+- Screenshot: `images/Kali Specs.png` `images/Windows Specs.png`
