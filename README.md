@@ -55,3 +55,28 @@ Images of each major step are included in the `/images/` folder and referenced b
 - Created and installed Kali Linux, and Windows 10 VMs
 - Took VM snapshots after configuration
 - Screenshot: `images/Baseline Kali`
+
+---
+
+## ⏭️ Next Steps
+
+- Move on to part 3 of the myDFIR series
+
+## 🛠️ Troubleshooting
+
+### ❌ VM Internet Access Issues
+
+Currently troubleshooting NAT and Bridged Adapter settings to allow internet access from all VMs before isolating the environment.
+
+---
+
+## 🙏 Credits
+
+- YouTube Channel: [myDFIR](https://www.youtube.com/@myDFIR)
+- Tools: Kali Linux, Windows 10, VirtualBox
+
+---
+
+## 📌 Notes
+
+This project is a personal learning experience and is not meant for production use. Feedback, pull requests, or issue reports are welcome.
