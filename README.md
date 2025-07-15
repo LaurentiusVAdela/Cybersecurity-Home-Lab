@@ -4,3 +4,7 @@ Welcome to my ongoing Cybersecurity Homelab project, inspired by the myDFIR YouT
 
 > 📌 Current Progress: Part 2 of 3 completed  
 > 🔧 Part 3: Pending (will resume after addressing potential troubleshooting)
+
+## 📸 Screenshots
+
+Images of each major step are included in the `/images/` folder and referenced below for visual tracking.
